@@ -18,6 +18,6 @@ public class LMS_Trainers_datatypes {
     System.out.println("Salary : " + salary);
     System.out.println("Grade : " + grade);
     System.out.println("IS_Active : " + is_Active);
-    System.out.println("Trainer_Name : " + trainer_name);
+    System.out.println("Trainer_Name : " + trainer_name);  
   }
 }
