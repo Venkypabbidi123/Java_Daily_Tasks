@@ -9,7 +9,7 @@ public class LMS_Trainers_datatypes {
     char grade = 'A';
     boolean is_Active = true;
     String trainer_name = "Ravi Kumar";
-
+    
     System.out.println("Trainer level : " + trainer_level);
     System.out.println("Number of Courses : " + number_of_courses);
     System.out.println("Trainer_ID : " + trainer_ID);
